@@ -1,0 +1,24 @@
+{
+  "name": "clase5",
+  "version": "1.0.1",
+  "description": "desafio ",
+  "main": "yes",
+  "scripts": {
+    "test": "mpn moment js reduce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "josefina"
+  },
+  "keywords": [
+    "npm",
+    "moment",
+    "js",
+    "reduce"
+  ],
+  "author": "josefina",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

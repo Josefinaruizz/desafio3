@@ -1,0 +1,17 @@
+
+[
+  {
+		"title": "Remera",
+		"price": 14,
+		"thumbnail": "https://m.media-amazon.com/images/I/51AEckoWVHL._AC_UX569_.jpg"
+	},
+  {
+	"title": "Gorra",
+	"price": 21,
+	"thumbnail": "https://m.media-amazon.com/images/I/513Ng56AaQL._AC_UX679_.jpg"
+  },
+  {
+		"title": "Pantalon",
+		"price": 42,
+		"thumbnail": "https://m.media-amazon.com/images/I/71MvvRUrSRL._AC_UY550_.jpg"
+	}
